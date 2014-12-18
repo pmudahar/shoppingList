@@ -1,6 +1,6 @@
 ####INSTALLATION INSTRUCTIONS
 
-1.  ```git clone ```
+1.  ```git clone https://github.com/pmudahar/shoppingList.git```
 2.  ```npm install```
 3.  ```grunt serve```
 
