@@ -1,0 +1,113 @@
+.thing-form {
+    margin: 20px 0;
+}
+
+#banner {
+    border-bottom: none;
+    margin-top: -20px;
+}
+
+#banner h1 {
+    font-size: 60px;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+.hero-unit {
+    position: relative;
+    padding: 30px 15px;
+    color: #F5F5F5;
+    text-align: center;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+    background: #4393B9;
+}
+
+.footer {
+    text-align: center;
+    padding: 30px 0;
+    margin-top: 70px;
+    border-top: 1px solid #E5E5E5;
+}
+
+
+.inputBox{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.form-control{
+    width: 25%;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.add{
+    font-family: 'Lato';
+    letter-spacing: 2px;
+    padding: 5px 5px;
+
+}
+
+.resultsBox{
+    width: 70%;    
+    margin: 20px auto;
+    text-align: center;
+}
+
+.check{
+    display: inline-block;
+    width: 10%
+}
+
+.itemDetails{
+    display: inline-block;
+    width: 40%;
+    font-family: Lato;
+    font-size: 1em;
+    padding: 10px;
+    text-align: left;
+}
+
+.price{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+}
+
+
+.title { 
+    position : relative; 
+    top : 10px; 
+    left : 25px; 
+    background-color : white; 
+    padding : 0 5px; 
+    text-align: left;
+    width: 60%
+}
+
+.box { 
+    border : 2px solid black; 
+    padding : 10px; 
+    height: 100%;
+    margin: 0 auto;
+} 
+
+.input-group{
+    width: 30%;
+}
+
+
+.label{
+    margin: 0 3px;
+}
+
+.btn-group{
+    letter-spacing: 0px;
+    font-family: Lato;
+    float: left;
+    margin-right: 10px;
+}
+
+.badge{
+    font-size: .7em;
+}
